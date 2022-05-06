@@ -16,7 +16,7 @@
 
 - 🥈 Tim Ferriss **The 4-Hour Workweek**
 
-- 🥉 Thinking ...
+- 🥉 Yuval Noah Harari - **Sapiens**
 
 ### Languages and Tools
 <p>
