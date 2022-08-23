@@ -4,7 +4,7 @@
 
 <p>
 
-- 🤫 Working on a NFT DApp at [arturr.io](https://arturr.com)
+- 🤫 Working on a NFT DApp at [arturr.io](https://arturr.io)
 
 - 🐦 Twitter [@thehedgeguy](https://twitter.com/thehedgeguy)
 
