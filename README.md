@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm David !</h1>
 
-<h2 align="center">🚀 Enthousiastic entrepreneur 🚀 </br>💻 Software Engineer 💻</br>🇫🇷 French 🇫🇷</h2>
+<h2 align="center">Enthousiastic entrepreneur 🚀 </br>Software Engineer 💻</br>French 🇫🇷</h2>
 
-<p>
-
-- 🤫 Working on a NFT DApp at [arturr.io](https://arturr.io)
-
-- 🐦 Twitter [@thehedgeguy](https://twitter.com/thehedgeguy)
-
-</p>
 
 ### 📚 Favorite books that changed my life
 
